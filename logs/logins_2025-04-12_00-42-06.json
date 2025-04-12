@@ -1,0 +1,7 @@
+[
+  {"host":"6.8.0-57-generic","pid":"0","time":"1744410271","tty":"~","type":"boot_time","user":"reboot"},
+  {"host":"","pid":"2078","time":"1744410287","tty":"tty1","type":"user","user":"ana"},
+  {"host":"10.0.2.2","pid":"2352","time":"1744410334","tty":"pts/0","type":"user","user":"ana"},
+  {"host":"6.8.0-57-generic","pid":"53","time":"1744410462","tty":"~","type":"runlevel","user":"runlevel"},
+  {"host":"10.0.2.2","pid":"5960","time":"1744413917","tty":"pts/1","type":"dead","user":""}
+]
